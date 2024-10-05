@@ -1,2 +1,2 @@
 # guangfu_baseline
-（二分类）
+（label为0-6，多分类）
